@@ -1,0 +1,8 @@
+C:\Users\j_reddy\source\repos\FSDProject_JReddy\FSDRainbowSchool\bin\Debug\TeacherData.txt
+C:\Users\j_reddy\source\repos\FSDProject_JReddy\FSDRainbowSchool\bin\Debug\FSDRainbowSchool.exe.config
+C:\Users\j_reddy\source\repos\FSDProject_JReddy\FSDRainbowSchool\bin\Debug\FSDRainbowSchool.exe
+C:\Users\j_reddy\source\repos\FSDProject_JReddy\FSDRainbowSchool\bin\Debug\FSDRainbowSchool.pdb
+C:\Users\j_reddy\source\repos\FSDProject_JReddy\FSDRainbowSchool\obj\Debug\FSDRainbowSchool.csprojAssemblyReference.cache
+C:\Users\j_reddy\source\repos\FSDProject_JReddy\FSDRainbowSchool\obj\Debug\FSDRainbowSchool.csproj.CoreCompileInputs.cache
+C:\Users\j_reddy\source\repos\FSDProject_JReddy\FSDRainbowSchool\obj\Debug\FSDRainbowSchool.exe
+C:\Users\j_reddy\source\repos\FSDProject_JReddy\FSDRainbowSchool\obj\Debug\FSDRainbowSchool.pdb
